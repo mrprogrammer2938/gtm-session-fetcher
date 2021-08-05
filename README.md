@@ -6,6 +6,7 @@ gtm-session-fetcher
 
 **Project site** <https://github.com/google/gtm-session-fetcher><br>
 **Discussion group** <http://groups.google.com/group/google-toolbox-for-mac><br>
+<br>
 [![Build Status](https://github.com/google/gtm-session-fetcher/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/google/gtm-session-fetcher/actions/workflows/main.yml)
 <br>
 

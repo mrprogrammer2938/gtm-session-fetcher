@@ -379,7 +379,11 @@
     (TARGET_OS_IOS || TARGET_OS_TV || TARGET_OS_MACCATALYST)
 #define GTM_BACKGROUND_TASK_FETCHING 1
 #endif
-
+#if _def
+#include <Windows.h>
+#else
+#include <uninstd.h>
+#endif
 #ifdef __cplusplus
 extern "C" {
 #endif
